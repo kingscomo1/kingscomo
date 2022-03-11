@@ -1,0 +1,28 @@
+/*  */
+
+.padding {
+    box-sizing: border-box;
+    padding: 10px;
+}
+
+body{
+    background-image:url(/images/manchester-at-night.jpg);
+    background-size:100%;
+}
+
+
+H1 {
+    color: blue;
+    font-size: 50;
+}
+
+
+
+
+p{
+    color: black;
+    background-color: aliceblue;
+}
+.intro {
+    background-color: aqua;
+}
